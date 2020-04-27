@@ -6,7 +6,9 @@ public class my_module {
 		int b=5;
 		System.out.println(a+b);
 		System.out.println(a*b);
+<<<<<<< HEAD
 		/* 감사합니다.*/
+
 	}
 
 }
